@@ -25,11 +25,11 @@ const model =
         },
 
         myBirdsPage: {
-            selected_Sort: "",
+            selected_Sort: '',
         },
 
         allBirdsPage: {
-            selected_Sort: "",
+            selected_Sort: '',
         }
         
     },
