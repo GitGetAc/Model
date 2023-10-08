@@ -2,8 +2,7 @@
 
 const model = 
 {
-    app: 
-    {
+    app: {
         currentPage:"homeView",
         loggedInUser: "Linn",
     },
@@ -38,8 +37,7 @@ const model =
         sortBirds: ["Vekt","Fart","Størrelse","Levetid"],
         leaderboard: [1,0,2],
 
-        accounts: [
-        {
+        accounts: [{
             accountId:0,
             name: "Linn",
             user_Name:"LinnBird123",
